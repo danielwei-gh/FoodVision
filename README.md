@@ -1,6 +1,6 @@
 ---
-title: Food101 ViT B 16
-emoji: 👀
+title: Food Image Classifier (ViT-B/16)
+emoji: 🍔
 colorFrom: blue
 colorTo: yellow
 sdk: gradio

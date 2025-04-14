@@ -1,14 +1,15 @@
----
-title: Food Image Classifier (ViT-B/16)
-emoji: 🍔
-colorFrom: blue
-colorTo: yellow
-sdk: gradio
-sdk_version: 5.21.0
-app_file: app.py
-pinned: false
-license: mit
-short_description: Identify food types from images
----
+## Quick Start
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+1. **Install dependencies**:
+
+```bash
+pip install -r requirements.txt
+```
+
+2. **Running Gradio App**:
+
+```bash
+python app.py
+```
+
+This will start the Gradio demo on [http://localhost:7860](http://localhost:7860).
